@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "jy-cli-service serve",
-    "build": "jy-cli-service build",
+    "build": "jy-cli-service build"
   },
   "dependencies": {
     "core-js": "^3.8.3",
